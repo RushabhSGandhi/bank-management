@@ -1,9 +1,7 @@
 # Bank Management System
-This is Bank Management Web Application similar to application used by employees in the bank.
-## Live Website Link
-https://bank--management.herokuapp.com/
+This is Bank Management Web Application similar to the application used by employees in the bank.
 
-Use Employee ID:- 1001 and Password:- admin@123 to login as Manager.
+
 
 # Technologies Used
 * Frontend :- HTML, CSS, Javascript, Bootstrap 4,EJS
